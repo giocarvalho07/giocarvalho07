@@ -6,7 +6,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giocarvalho07&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
-  <br>
+<br>
+<br>
+<br>
+
+### Tecnologias que utilizo em meu dia a dia 
+
 
 <div style="display: inline_block">
   

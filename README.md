@@ -14,7 +14,7 @@
  
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
   
-  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/thymeleaf.png"/>
+  <img align="center" height="40" width="40" src="https://img.icons8.com/fluency/48/javascript.png"/>
   
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   
@@ -23,6 +23,18 @@
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
   
   <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/golang.png"/>
+
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/docker.png"/>
+
+  <img align="center" height="40" width="40" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+
+  <img align="center" height="40" width="40" src="https://img.icons8.com/fluency/48/grafana.png"/>
+
+  <img align="center" height="40" width="40" src="https://img.icons8.com/fluency/48/prometheus-app.png"/>
+
+
   
 </div>
   

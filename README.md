@@ -1,4 +1,4 @@
-### Olá sou o Giovanni de Carvalho - Dev. Full Stack 👋
+### Olá sou o Giovanni de Carvalho - Engenheiro de Software 👋
 
 <div align="center">
   <a href="https://github.com/giocarvalho07">
@@ -33,6 +33,8 @@
   <img align="center" height="40" width="40" src="https://img.icons8.com/fluency/48/grafana.png"/>
 
   <img align="center" height="40" width="40" src="https://img.icons8.com/fluency/48/prometheus-app.png"/>
+
+  <img  align="center" height="40" width="40" src="https://img.icons8.com/color/48/power-bi.png"/>
 
   <br>
   <hr>
